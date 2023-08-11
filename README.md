@@ -1,1 +1,1 @@
-# cloud-S3-static-website
+# cloudfront-s3-static-website
